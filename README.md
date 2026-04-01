@@ -11,7 +11,7 @@ Depois de excutar o comando a cima, vá até o diretorio onde está salvo o scri
 
 Ex: > `"C:\Users\Admin\Download"`
 
-No diretorio onde execute o comando a baixo:
+No diretorio onde o arquivo foi baixado execute o comando a baixo:
 ```
 .\ScanMetasploittable2.ps1
 ```
