@@ -9,7 +9,7 @@ Set-ExecutionPolicy Unrestricted
 
 Depois de excutar o comando a cima, vá até o diretorio onde está salvo o script 
 
-Ex: > `"C:\Users\Admin\Download"`
+Ex: > `"C:\Users\Admin\Downloads"`
 
 No diretorio onde o arquivo foi baixado execute o comando a baixo:
 ```
