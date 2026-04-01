@@ -13,6 +13,6 @@ Ex: > `"C:\Users\Admin\Download"`
 
 No diretorio onde o arquivo foi baixado execute o comando a baixo:
 ```
-.\ScanMetasploittable2.ps1
+.\ScanMetasploitable2.ps1
 ```
 Depois de excutar irá solitar o IP da maquina alvo, coloque o IP para que possa realizar o scan de portas abertas
